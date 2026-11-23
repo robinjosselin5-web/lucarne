@@ -1,14 +1,14 @@
 {
-  "name": "p3-0526-remote-lucarne",
+  "name": "Lucarne",
   "version": "0.0.1",
-  "description": "",
-  "homepage": "https://github.com/  (hit Enter to use an empty string)/p3-0526-remote-lucarne#readme",
+  "description": "Référencement des matchs de football féminin",
+  "homepage": "https://github.com/robinjosselin5-web/lucarne#readme",
   "bugs": {
-    "url": "https://github.com/  (hit Enter to use an empty string)/p3-0526-remote-lucarne/issues"
+    "url": "https://github.com/robinjosselin5-web/lucarne/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/  (hit Enter to use an empty string)/p3-0526-remote-lucarne.git"
+    "url": "git+https://github.com/robinjosselin5-web/lucarne.git"
   },
   "workspaces": ["client", "server"],
   "scripts": {
@@ -26,7 +26,7 @@
     "test": "npm run test --workspaces --if-present"
   },
   "keywords": [],
-  "author": "  (hit Enter to use an empty string)",
+  "author": "Josselin ROBIN",
   "license": "MIT",
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
